@@ -1,4 +1,4 @@
-vpn-scirpts
+vpn-scripts
 ===========
 
 some scripts for vpn
